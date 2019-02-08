@@ -81,7 +81,7 @@ education:
 experiences:
     - role: Data Science Expert
       time: 2018 - Present
-      company: SWR, Baden-Baden
+      company: [SWR](http://www.swr.de), Baden-Baden
       details: |
         As an embedded Data Science Expert working for the German public broadcaster SWR, my job is to support investigative journalism
         by the means of data analysis, data visualisation and other computer-based methods. In particluar, this inludes
@@ -90,7 +90,7 @@ experiences:
           - Setup and design of Data Pipelines
           - Visualisation of findings for publishing and broadcasting
           
-      Furthermore, I provide training in data analysis and statistical programming to editorial staff interested in data-driven journalism.
+        Furthermore, I provide training in data analysis and statistical programming to editorial staff interested in data-driven journalism.
       
     - role: Intern (Knowledge Management)
       time: 2017
@@ -107,7 +107,7 @@ experiences:
 
     - role: Intern
       time: 2015
-      company: [State Representation of Baden-Württemberg to the Federal Government], Berlin(http://www.lvtberlin.baden-wuerttemberg.de/)
+      company: [State Representation of Baden-Württemberg to the Federal Government](http://www.lvtberlin.baden-wuerttemberg.de/), Berlin
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
