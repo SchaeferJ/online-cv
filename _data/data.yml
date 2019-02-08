@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kontakt@jochen-schäfer.de
+    email: mail@jochen-schäfer.de
     website: journalytics.de #do not add http://
     linkedin: jochen-schäfer
     github: SchaeferJ
@@ -96,11 +96,7 @@ experiences:
       time: 2017
       company: otto group, Hamburg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
 
           - Bullet point
           - Bullet point
@@ -189,4 +185,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley | Favicon by <a href="http://openmoji.org" target="_blank" rel="nofollow">openmoji-Project </a>
