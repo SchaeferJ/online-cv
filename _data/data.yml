@@ -41,16 +41,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        Data analysis and intelligent algorithms have the potential to reshape our entire society. However, most Data Scientists
+        start their carreers Computer Science, Mathematics or Physics. While those subjects provide excellent foundations for the
+        skills needed as a Data Scientist, many problems in Politics, Media and Social Sciences require tailor-made solutions based
+        on both, Data Science and domain knowledge. Combining a Bachelor's degree in Politics and Public Administration with Master
+        studies in Data Science, I am committed to filling this gap.
 
 education:
-    - degree: MSc in Data Science
+    - studies: Mannheim Master in Data Science
       university: University of Mannheim
       time: 2017 - Present
       details: |
@@ -83,7 +81,7 @@ experiences:
       time: 2018 - Present
       company: SWR, Baden-Baden
       details: |
-        As an embedded Data Science Expert working for the German public broadcaster SWR, my job is to support investigative journalism
+        As a Data Science Expert working for the German public broadcaster SWR, my job is to support investigative journalism
         by the means of data analysis, data visualisation and other computer-based methods. In particluar, this inludes
 
           - Adaption of machine learning algorithms for journalistic research
@@ -97,7 +95,7 @@ experiences:
       company: otto group, Hamburg
       details: |
         As an intern in knowledge management I was involved in the establishment, evaluation and measurement of information and experience
-        exchange between the individual group companies. This was done by
+        exchange between the individual group companies. This was facilitated by
         
           - Monitoring and analysing intranet traffic
           - Evaluation of survey data
@@ -109,14 +107,13 @@ experiences:
       time: 2015
       company: State Representation of Baden-Württemberg to the Federal Government, Berlin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Each German state maintains an embassy-like representation in Berlin, which acts as an advocate of the state's interests and sends
+        representatives to Bundestag and Bundesrat. During my internship, I was assigned to the press office and the state ministry of science,
+        research and arts. My tasks included
 
-          - Bullet point
-          - Bullet point
+          - Creating reports on meetings of parliamentary committees
+          - Drafting speeches and press releases
+          - Monitoring of the legislative process
 
 projects:
     title: Projects
@@ -187,6 +184,8 @@ skills:
 
       - name: Java
         level: 60%
-
+        
+      - name: SQL
+        level: 60%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> | Favicon by <a href="http://openmoji.org" target="_blank" rel="nofollow">openmoji-Project </a>
