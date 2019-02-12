@@ -60,7 +60,7 @@ education:
 
           - Data Minig, Data Acquisition and Visualisation
           - Text Analytics
-          - Data Security
+          - IT Security
         
 
     - degree: BA in Politics and Public Administration
@@ -82,7 +82,7 @@ experiences:
       company: SWR, Baden-Baden
       details: |
         As a Data Science Expert working for the German public broadcaster SWR, my job is to support investigative journalism
-        by the means of data analysis, data visualisation and other computer-based methods. In particluar, this inludes
+        by the means of data analysis, data visualisation and other computer-based methods. In particluar, this includes
 
           - Adaption of machine learning algorithms for journalistic research
           - Setup and design of Data Pipelines
@@ -101,7 +101,7 @@ experiences:
           - Evaluation of survey data
           - Hosting and organising corporate-wide meetups
           
-        While doing so, I was able to gain experiences in the use of tools like piwik/matomo, Tableau and Microsoft Sharepoint.
+        While doing so, I was able to gain experiences in the use of tools like piwik/matomo, Tableau and Microsoft SharePoint.
       
     - role: Intern
       time: 2015
