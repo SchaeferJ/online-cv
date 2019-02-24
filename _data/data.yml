@@ -58,7 +58,7 @@ education:
         offers a broad range of lectures from different academic fields such as computer science, mathematics and quantitative social
         sciences. The focus areas of my personal curriculum include:
 
-          - Data Minig, Data Acquisition and Visualisation
+          - Data Mining, Data Acquisition and Visualisation
           - Text Analytics
           - IT Security
         
@@ -69,7 +69,7 @@ education:
       details: |
         Being one of Germany's youngest universities, the [University of Konstanz](https://en.wikipedia.org/wiki/University_of_Konstanz)
         takes a rather different approach when it comes to teaching political sciences: Statistics, economics, management and public law
-        form just as much part of the [BA in Politics and Public Administration](https://www.polver.uni-konstanz.de/en/studies/bachelor/bapolver/) as standard political theroy. 
+        form just as much part of the [BA in Politics and Public Administration](https://www.polver.uni-konstanz.de/en/studies/bachelor/bapolver/) as standard political theory. 
         My electives included:
         
           - Survey Statistics
@@ -82,7 +82,7 @@ experiences:
       company: SWR, Baden-Baden
       details: |
         As a Data Scientist working for the German public broadcaster SWR, my job is to support investigative journalism
-        by the means of data analysis, data visualisation and other computer-based methods. In particluar, this includes
+        by the means of data analysis, data visualisation and other computer-based methods. In particular, this includes
 
           - Adaption of machine learning algorithms for journalistic research
           - Setup and design of Data Pipelines
